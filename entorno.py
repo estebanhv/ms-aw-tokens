@@ -8,4 +8,4 @@ Created on Sat Oct 30 13:19:23 2021
 
 import os
 
-os.environ["JWT_SECRET_KEY"]="Jwt@Tokens*"
+os.environ["JWT_SECRET_KEY"]=""
